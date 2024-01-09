@@ -1,0 +1,17 @@
+# av
+
+   - RG - OK
+   - CNH - OK
+   - CTPS - OK 
+   - CPF - OK
+   - TITULO ELEITOR - OK
+   - PIS/PASEP - OK
+   - RA - OK
+   - RESIDENCIA - OK
+   - ESCOLAR - 
+   - CERTIDÃO DE NASCIMENTO - 
+   - COPIA CARTAO DE PASSAGEM + OBS.: UF DO CARTAO - 
+   - DADOS BANCÁRIOS ITAU - 
+   - QUALIFICAÇÃO MANUAL ESOCIAL - 
+   - CONSULTA CPF - 
+   - SOLICITAÇÃO  - 
